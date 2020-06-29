@@ -56,7 +56,7 @@ A junior version of Reddit called micro-reddit. In this project, you’ll build 
 - Fork/Clone the project to your local machine
 - cd into the project directory
 - Run git checkout -b your-branch-name
-- Make your contributions
+- Make your contribution
 - Push your branch up to your forked repository
 - Open a Pull Request with a detailed description to the development branch of the original project for a review
 
